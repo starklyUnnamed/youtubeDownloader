@@ -1,0 +1,1 @@
+Super simple script for downloading videos off of Youtube. Update out_path to the location that you want to save the downloaded videos. Path must be absolute.
